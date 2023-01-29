@@ -7,7 +7,7 @@ Convert your text/code/... into one single line.
 </p>
 
 ## Run locally
-Simply open the `index.html` inside your browser.
+Open the `index.html` inside your browser.
 
 ## Authors
 - [@xk1ma](https://github.com/xk1ma)
